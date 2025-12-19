@@ -5,12 +5,12 @@ import { Filter, ChevronDown, Heart, Star, ShoppingBag, Search, CheckCircle } fr
 
 // --- MOCK DATA ---
 const allProducts = [
-  { id: 1, name: 'Royal Blue Suit', category: 'Suits', price: '₹8,499', oldPrice: '₹12,999', rating: 4.9, image: 'https://images.unsplash.com/photo-1593032465175-d812032760d1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80', tag: '30% OFF' },
+  { id: 1, name: 'Royal Blue Suit', category: 'Suits', price: '₹8,499', oldPrice: '₹12,999', rating: 4.9, image: 'https://www.sainly.com/cdn/shop/files/Untitleddesign-2023-02-23T143609.065_1024x1024.webp?v=1726726331', tag: '30% OFF' },
   { id: 2, name: 'Navy Sherwani', category: 'Ethnic', price: '₹14,999', oldPrice: '₹18,500', rating: 5.0, image: 'https://images.unsplash.com/photo-1617127365659-c47fa864d8bc?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80', tag: 'BESTSELLER' },
-  { id: 3, name: 'Linen Shirt', category: 'Shirts', price: '₹2,199', oldPrice: '₹3,200', rating: 4.6, image: 'https://images.unsplash.com/photo-1596756616499-c8c7f938b8d9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80', tag: 'NEW' },
+  { id: 3, name: 'Linen Shirt', category: 'Shirts', price: '₹2,199', oldPrice: '₹3,200', rating: 4.6, image: 'https://cdn.linenclub.com/media/catalog/product/cache/d8d099ed0f54be45d4eb2c71c1a3b40d/l/c/lcmsfn01yd00035-b3_0.jpg', tag: 'NEW' },
   { id: 4, name: 'Classic Tuxedo', category: 'Suits', price: '₹9,799', oldPrice: '₹11,000', rating: 4.8, image: 'https://images.unsplash.com/photo-1598033129183-c4f50c736f10?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80', tag: 'HOT' },
-  { id: 5, name: 'Beige Kurta Set', category: 'Ethnic', price: '₹3,499', oldPrice: '₹5,000', rating: 4.7, image: 'https://images.unsplash.com/photo-1597983073493-88cd357a28e0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80', tag: 'FESTIVE' },
-  { id: 6, name: 'Checkered Blazer', category: 'Suits', price: '₹5,999', oldPrice: '₹8,000', rating: 4.5, image: 'https://images.unsplash.com/photo-1507679799987-c73779587ccf?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80', tag: 'SALE' },
+  { id: 5, name: 'Beige Kurta Set', category: 'Ethnic', price: '₹3,499', oldPrice: '₹5,000', rating: 4.7, image: 'https://imagescdn.tasva.com/img/app/product/1/1077388-16665192.jpg?w=500&auto=format', tag: 'FESTIVE' },
+  { id: 6, name: 'Checkered Blazer', category: 'Suits', price: '₹5,999', oldPrice: '₹8,000', rating: 4.5, image: 'https://imagescdn.allensolly.com/img/app/product/3/39829377-16515454.jpg?auto=format&w=390', tag: 'SALE' },
   { id: 7, name: 'Silk Nehru Jacket', category: 'Ethnic', price: '₹4,299', oldPrice: '₹6,500', rating: 4.8, image: 'https://images.unsplash.com/photo-1507679799987-c73779587ccf?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80', tag: 'TRENDING' },
   { id: 8, name: 'White Formal Shirt', category: 'Shirts', price: '₹1,899', oldPrice: '₹2,500', rating: 4.4, image: 'https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80', tag: '' },
 ];

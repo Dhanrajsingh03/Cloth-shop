@@ -8,11 +8,11 @@ const accessories = [
   { id: 201, name: 'The Chrono Black', category: 'Watches', price: 8999, oldPrice: 12500, rating: 4.9, image: 'https://images.unsplash.com/photo-1524592094714-0f0654e20314?q=80&w=1000&auto=format&fit=crop', tag: 'LUXURY' },
   { id: 202, name: 'Oxford Leather Belt', category: 'Belts', price: 2499, oldPrice: 3500, rating: 4.7, image: 'https://images.unsplash.com/photo-1624222247344-550fb60583dc?q=80&w=1000&auto=format&fit=crop', tag: 'ESSENTIAL' },
   { id: 203, name: 'Aviator Sunglasses', category: 'Eyewear', price: 3999, oldPrice: 5000, rating: 4.6, image: 'https://images.unsplash.com/photo-1511499767150-a48a237f0083?q=80&w=1000&auto=format&fit=crop', tag: 'NEW' },
-  { id: 204, name: 'Slim Cardholder', category: 'Wallets', price: 1299, oldPrice: 1800, rating: 4.5, image: 'https://images.unsplash.com/photo-1627123424574-181ce5171c98?q=80&w=1000&auto=format&fit=crop', tag: '' },
-  { id: 205, name: 'Silk Pocket Square', category: 'Ties', price: 899, oldPrice: 1200, rating: 4.8, image: 'https://images.unsplash.com/photo-1596522354195-e84ae80050d0?q=80&w=1000&auto=format&fit=crop', tag: 'FORMAL' },
-  { id: 206, name: 'Silver Cufflinks', category: 'Jewelry', price: 1999, oldPrice: 2500, rating: 4.7, image: 'https://images.unsplash.com/photo-1599643478518-17488fbbcd75?q=80&w=1000&auto=format&fit=crop', tag: '' },
+  { id: 204, name: 'Slim Cardholder', category: 'Wallets', price: 1299, oldPrice: 1800, rating: 4.5, image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqKo_urpf8OLNNr5QvcYsIS2VZwsbGesD77g&s', tag: '' },
+  { id: 205, name: 'Silk Pocket Square', category: 'Ties', price: 899, oldPrice: 1200, rating: 4.8, image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeWGAdYxCTnZlD8zZfKijWO7Hvqbf87aAoUg&s', tag: 'FORMAL' },
+  { id: 206, name: 'Silver Cufflinks', category: 'Jewelry', price: 1999, oldPrice: 2500, rating: 4.7, image: 'https://img.tatacliq.com/images/i25//437Wx649H/MP000000024775878_437Wx649H_202506271201021.jpeg', tag: '' },
   { id: 207, name: 'Weekender Duffle', category: 'Bags', price: 6499, oldPrice: 8000, rating: 4.9, image: 'https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=1000&auto=format&fit=crop', tag: 'BESTSELLER' },
-  { id: 208, name: 'Gold Signet Ring', category: 'Jewelry', price: 3499, oldPrice: 4500, rating: 4.4, image: 'https://images.unsplash.com/photo-1617038220319-88af15286a77?q=80&w=1000&auto=format&fit=crop', tag: 'TRENDING' },
+  { id: 208, name: 'Gold Signet Ring', category: 'Jewelry', price: 3499, oldPrice: 4500, rating: 4.4, image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCZfxuLpCDpzAa_9EFwee2D1XHi8zjf3kQQQ&s', tag: 'TRENDING' },
 ];
 
 const categoryTiles = [
